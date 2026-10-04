@@ -1,0 +1,13 @@
+{
+  "name": "机械设计题库｜举一反三",
+  "short_name": "机械设计题库",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f6f8",
+  "theme_color": "#202124",
+  "lang": "zh-CN",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
